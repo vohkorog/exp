@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/kirillgorohov/Desktop/codes/c++/exp/build",
+  "command": "/usr/bin/clang  -I/Users/kirillgorohov/Desktop/codes/c++/exp/dep/GLAD/include -isystem /opt/homebrew/include -g -arch arm64 -o CMakeFiles/opengl-test.dir/dep/GLAD/src/glad.c.o -c /Users/kirillgorohov/Desktop/codes/c++/exp/dep/GLAD/src/glad.c",
+  "file": "/Users/kirillgorohov/Desktop/codes/c++/exp/dep/GLAD/src/glad.c",
+  "output": "CMakeFiles/opengl-test.dir/dep/GLAD/src/glad.c.o"
+},
+{
+  "directory": "/Users/kirillgorohov/Desktop/codes/c++/exp/build",
+  "command": "/usr/bin/clang++  -I/Users/kirillgorohov/Desktop/codes/c++/exp/dep/GLAD/include -isystem /opt/homebrew/include -g -arch arm64 -o CMakeFiles/opengl-test.dir/src/main.cpp.o -c /Users/kirillgorohov/Desktop/codes/c++/exp/src/main.cpp",
+  "file": "/Users/kirillgorohov/Desktop/codes/c++/exp/src/main.cpp",
+  "output": "CMakeFiles/opengl-test.dir/src/main.cpp.o"
+}
+]

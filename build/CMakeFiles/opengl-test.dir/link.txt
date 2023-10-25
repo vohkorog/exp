@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/opengl-test.dir/dep/GLAD/src/glad.c.o" "CMakeFiles/opengl-test.dir/src/main.cpp.o" -o opengl-test  -Wl,-rpath,/opt/homebrew/lib /opt/homebrew/lib/libglfw.3.3.dylib 

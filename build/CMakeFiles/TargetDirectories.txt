@@ -1,0 +1,3 @@
+/Users/kirillgorohov/Desktop/codes/c++/exp/build/CMakeFiles/opengl-test.dir
+/Users/kirillgorohov/Desktop/codes/c++/exp/build/CMakeFiles/edit_cache.dir
+/Users/kirillgorohov/Desktop/codes/c++/exp/build/CMakeFiles/rebuild_cache.dir
